@@ -4722,35 +4722,35 @@ end</constant>
          0.0
 </constant>
         <constant cols="1" digits="2" name="cltBoostCorrBins" rows="5">
-         0.0
-         0.0
-         0.0
-         0.0
-         0.0
+         20.0
+         40.0
+         60.0
+         80.0
+         100.0
 </constant>
         <constant cols="1" digits="2" name="cltBoostCorr" rows="5">
-         0.0
-         0.0
-         0.0
-         0.0
-         0.0
+         1.0
+         1.0
+         1.0
+         1.0
+         1.0
 </constant>
         <constant cols="1" digits="2" name="iatBoostCorrBins" rows="5">
-         0.0
-         0.0
-         0.0
-         0.0
-         0.0
+         20.0
+         40.0
+         60.0
+         80.0
+         100.0
 </constant>
         <constant cols="1" digits="2" name="iatBoostCorr" rows="5">
-         0.0
-         0.0
-         0.0
-         0.0
-         0.0
+         1.0
+         1.0
+         1.0
+         1.0
+         1.0
 </constant>
     </page>
-    <versionInfo firmwareInfo="20240716" nPages="1" signature="rusEFI main.2024.07.27.XYZ.508652102" version="5.0"/>
+    <versionInfo firmwareInfo="20240716" nPages="1" signature="rusEFI main.2024.07.27.XYZ.1888434941" version="5.0"/>
     <bibliography author="rusEFI 20240716" writeDate="date"/>
     <settings/>
     <userComments/>
