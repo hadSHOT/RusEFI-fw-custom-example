@@ -5278,8 +5278,8 @@ end</constant>
 </constant>
         <constant name="yesUnderstandLocking">"no"</constant>
     </page>
-    <versionInfo firmwareInfo="20250724" nPages="1" signature="rusEFI main.2025.08.04.xyz.1441912028" version="5.0"/>
-    <bibliography author="rusEFI 20250724" writeDate="date"/>
+    <versionInfo firmwareInfo="20250803" nPages="1" signature="rusEFI main.2025.08.04.xyz.2688368271" version="5.0"/>
+    <bibliography author="rusEFI 20250803" writeDate="date"/>
     <settings/>
     <userComments/>
 </msq>
